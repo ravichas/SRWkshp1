@@ -97,8 +97,6 @@ dependencies:
   - python=3.6.7
   - python-dateutil=2.8.1
   - pytz=2019.3
-  - pywin32=225
-  - pywinpty=0.5
   - pyyaml=5.1.2
   - pyzmq=18.1.1
   - qt=5.12.5
