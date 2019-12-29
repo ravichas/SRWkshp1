@@ -1,5 +1,5 @@
 # NIH AI Workshop1: Generating Molecular Features for Drug Function Classification  
 
-Click on GeneratingMolecularFeatures-12092019.ipynb to begin the tutorial
+Click Binder link below to begin the tutorial (Server setup on the cloud will take < 2 minutes at most).
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ravichas/SRWkshp1/master)
