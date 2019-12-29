@@ -2,4 +2,4 @@
 
 Click on GeneratingMolecularFeatures-12092019.ipynb to begin the tutorial
 
-[![Sourcegraph](https://sourcegraph.com/github.com/ravichas/SRWkshp1/-/badge.svg)](https://sourcegraph.com/github.com/ravichas/SRWkshp1?badge)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ravichas/SRWkshp1/master)
