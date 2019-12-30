@@ -1,0 +1,3 @@
+# Example of a `.gitattributes` file which reclassifies `.rb` files as Java:
+*.ipynb linguist-language=python
+*.ipynb linguist-language=jupyter notebook
