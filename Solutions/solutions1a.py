@@ -1,4 +1,5 @@
 # register all descriptors
+from mordred import Calculator, descriptors
 calc = Calculator(descriptors, ignore_3D=True)
 
 for mol in suppl:
