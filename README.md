@@ -1,5 +1,5 @@
 # NIH AI Workshop1: Generating Molecular Features for Drug Function Classification
-**S.Ravichandran 
+**S.Ravichandran**
 
 Click Binder link below to begin the tutorial. 
 
